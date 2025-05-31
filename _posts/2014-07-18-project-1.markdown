@@ -1,1 +1,5 @@
+---
+layout: default
+date: 2014-07-14
+---
 I see now that I shold cpy template or something before forking
